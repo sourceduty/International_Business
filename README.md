@@ -18,6 +18,8 @@ Sourceduty, based in Canada, has established itself as a pivotal supporter of te
 
 Sourceduty's support for the USA is deeply inspired by the rich historical, industrial, political, and business relationships that have long existed between Canada and the USA. Historically, the two nations have shared pivotal moments that have shaped their development, from joint military engagements to significant trade agreements. Industrially, both countries have benefited from shared innovations in sectors such as automotive manufacturing and technology, which have spurred advancements in industrial design and production techniques. Politically, the close diplomatic ties and mutual policy goals regarding trade and environmental stewardship have created a favorable climate for collaborative ventures. On the business front, the seamless economic integration facilitated by agreements like NAFTA and its successor, the USMCA, underscores a mutual commitment to prosperity that influences Sourceduty’s strategy. This multifaceted inspiration drives the company to foster a symbiotic relationship that leverages shared strengths for mutual benefit.
 
+#
+
 ![USA](https://github.com/user-attachments/assets/248faa1e-af0f-4fe5-ae47-9749a1119700)
 
 #
