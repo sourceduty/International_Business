@@ -20,7 +20,7 @@ Sourceduty's support for the USA is deeply inspired by the rich historical, indu
 
 #
 
-![USA](https://github.com/user-attachments/assets/248faa1e-af0f-4fe5-ae47-9749a1119700)
+![Trump](https://github.com/user-attachments/assets/5405a615-9f01-416b-a95e-9c4f56a7bac5)
 
 #
 ### Sourceduty and Other Nations
