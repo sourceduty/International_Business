@@ -1,9 +1,11 @@
-![Canada-USA](https://github.com/sourceduty/Canada-USA/assets/123030236/540b8382-dcd4-4aae-9988-c6edfc9ae92d)
+![Sourceduty Banner](https://github.com/user-attachments/assets/963489b9-37b8-40fb-97ab-bdebc2956f93)
 
 > Support for technological and economic collaboration between Canada and other nations.
 
 #
 ### Canada-USA
+
+![Canada-USA](https://github.com/sourceduty/Canada-USA/assets/123030236/540b8382-dcd4-4aae-9988-c6edfc9ae92d)
 
 The United States and Canada share one of the longest and most economically significant international borders in the world, which has fostered a relationship characterized by deep economic integration, mutual defense commitments, and extensive cultural exchange. Economically, the two countries are profoundly intertwined; the U.S. is Canada's largest trading partner, and vice versa, with trade between them totaling hundreds of billions of dollars annually. This economic partnership is bolstered by agreements like the United States-Mexico-Canada Agreement (USMCA), which facilitates seamless trade and investment. Moreover, the defense ties are exemplified by their cooperation in the North American Aerospace Defense Command (NORAD), a bi-national organization responsible for the aerospace and maritime defense of both nations.
 
