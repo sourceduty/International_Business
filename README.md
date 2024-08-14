@@ -45,5 +45,10 @@ Amid these complex dynamics, companies like Sourceduty, find themselves in a cha
 
 Ultimately, while Russia remains a country with significant economic potential, the ongoing conflict and resulting sanctions have severely constrained its business relations with much of the Western world. Companies like Sourceduty, which might otherwise support business in Russia due to the country's opportunities and natural beauty, must navigate a complex and uncertain environment. As long as geopolitical tensions and sanctions persist, business relations between Russia and the West are likely to remain strained, with economic cooperation increasingly limited to nations outside the Western bloc.
 
+#
+### Related Links
+
+[Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
