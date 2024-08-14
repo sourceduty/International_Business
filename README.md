@@ -49,6 +49,12 @@ Ultimately, while Russia remains a country with significant economic potential, 
 ### Related Links
 
 [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
+<br>
+[Automated Business](https://github.com/sourceduty/Automated_Business)
+<br>
+[Sourceduty OS](https://github.com/sourceduty/Sourceduty_OS)
+<br>
+[Industry Simulator](https://github.com/sourceduty/Industry_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
