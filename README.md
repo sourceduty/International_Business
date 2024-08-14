@@ -23,13 +23,6 @@ Sourceduty's support for the USA is deeply inspired by the rich historical, indu
 ![Trump](https://github.com/user-attachments/assets/5405a615-9f01-416b-a95e-9c4f56a7bac5)
 
 #
-### Sourceduty and Other Nations
-
-![Nations](https://github.com/sourceduty/Canada-USA/assets/123030236/75533585-ef89-4a3b-a4d9-673f25cdf66b)
-
-Sourceduty extends its supportive outreach beyond the USA, actively aiding other countries that share similar economic and technological landscapes. For instance, the company supports firms in the United Kingdom and Australia, countries known for their robust tech sectors and innovative ecosystems. In the UK, Sourceduty provides resources and expertise to enhance cybersecurity measures, leveraging British advancements in the field. Meanwhile, in Australia, the company supports initiatives focusing on the development of renewable energy technologies, aligning with Australia's strong push for sustainable energy solutions. These international support efforts not only expand Sourceduty's global footprint but also reinforce its commitment to fostering technological advancement and economic growth across similarly developed nations.
-
-#
 ### Sourceduty and Russia
 
 ![Poutin](https://github.com/user-attachments/assets/cefc4c90-242e-4902-97d2-f785c223ed2b)
@@ -44,6 +37,13 @@ In contrast, Russia has sought to strengthen its ties with non-Western countries
 Amid these complex dynamics, companies like Sourceduty, find themselves in a challenging position. On one hand, Russia's vast natural resources and skilled workforce present significant business opportunities under different geopolitical circumstances. On the other hand, the current political situation makes it difficult for companies like Sourceduty to engage with the Russian market without risking sanctions violations or reputational damage. Many within the business community argue that if Russia were not involved in military conflicts, it could play a more constructive role in international trade and economic development, leveraging its resources and geographic position to attract global investment.
 
 Ultimately, while Russia remains a country with significant economic potential, the ongoing conflict and resulting sanctions have severely constrained its business relations with much of the Western world. Companies like Sourceduty, which might otherwise support business in Russia due to the country's opportunities and natural beauty, must navigate a complex and uncertain environment. As long as geopolitical tensions and sanctions persist, business relations between Russia and the West are likely to remain strained, with economic cooperation increasingly limited to nations outside the Western bloc.
+
+#
+### Sourceduty and Other Nations
+
+![Nations](https://github.com/sourceduty/Canada-USA/assets/123030236/75533585-ef89-4a3b-a4d9-673f25cdf66b)
+
+Sourceduty extends its supportive outreach beyond the USA, actively aiding other countries that share similar economic and technological landscapes. For instance, the company supports firms in the United Kingdom and Australia, countries known for their robust tech sectors and innovative ecosystems. In the UK, Sourceduty provides resources and expertise to enhance cybersecurity measures, leveraging British advancements in the field. Meanwhile, in Australia, the company supports initiatives focusing on the development of renewable energy technologies, aligning with Australia's strong push for sustainable energy solutions. These international support efforts not only expand Sourceduty's global footprint but also reinforce its commitment to fostering technological advancement and economic growth across similarly developed nations.
 
 #
 ### Related Links
