@@ -43,7 +43,7 @@ Sourceduty extends its supportive outreach beyond the USA, actively aiding other
 
 #
 
-> Alex: "*I will legally guide and share the polical business strategies of Sourceduty as it evolves over time.*"
+> Alex: "*I will legally guide and share the political business strategies of Sourceduty as it evolves over time.*"
 
 #
 ### Related Links
