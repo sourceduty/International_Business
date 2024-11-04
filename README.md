@@ -11,6 +11,8 @@ The United States and Canada share one of the longest and most economically sign
 
 Culturally and socially, the relationship is marked by a shared language and similar democratic values, which have led to a robust exchange of media, art, and education between the two countries. This cultural affinity makes the border highly porous, with citizens frequently traveling between the two countries for tourism, education, and work. Environmental and energy policies also represent a critical area of collaboration, with both nations working together on initiatives to protect their shared ecosystems and to promote sustainable energy use. This cooperation reflects a broader commitment to addressing global challenges collectively, underscoring the deep and multifaceted ties that define the U.S.-Canada relationship.
 
+![Canada USA](https://github.com/user-attachments/assets/e918879f-ab33-4998-b76e-e9f661a1ca6b)
+
 #
 ### Sourceduty and The United States
 
